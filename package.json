@@ -1,0 +1,19 @@
+{
+  "name": "acad-aprendizajeautomatico-examenfinal-python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "train": "nodemon --exec python train.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanlucki/acad-aprendizajeautomatico-examenfinal-python.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanlucki/acad-aprendizajeautomatico-examenfinal-python/issues"
+  },
+  "homepage": "https://github.com/alanlucki/acad-aprendizajeautomatico-examenfinal-python#readme"
+}
